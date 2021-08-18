@@ -11,6 +11,7 @@ print("\nAFTER STANDARDIZATION")
 print(np.mean(data1["ms"]))
 print(np.var(data1["ms"]))
 data1["ms"].plot(kind="bar")
+#.............
 
 
 
